@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GuilhermeRomano
 - 👀 I’m interested in data analysis and AI
 - 🌱 I’m currently learning machine learning
-- 📫 How to reach me -> www.linkedin.com/in/guilherme-romano-57aba6145/
+- 📫 How to reach me -> www.linkedin.com/in/guilhermevromano
 
 <!---
 GuilhermeRomano/GuilhermeRomano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
