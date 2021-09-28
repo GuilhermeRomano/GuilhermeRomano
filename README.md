@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GuilhermeRomano
+- 👋 Hi, I’m Guilherme Vinícius Romano
 - 👀 I’m interested in data analysis and AI
 - 🌱 I’m currently learning machine learning
 - 📫 How to reach me -> www.linkedin.com/in/guilhermevromano
