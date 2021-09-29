@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Guilherme Vinícius Romano
 - 👀 I’m interested in data analysis and AI
+- 🖋  I know Python, SQL and VBA.
+- 📚 I worked with Hadoop and PowerBI
 - 🌱 I’m currently learning machine learning
 - 📫 How to reach me -> www.linkedin.com/in/guilhermevromano
 
